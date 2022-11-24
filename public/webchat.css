@@ -1,0 +1,17 @@
+#WACContainer.WACContainer #WACWidget.WACWidget {
+  --WatsonAssistantChat-BASE-bottom-position: 5px;
+  --WatsonAssistantChat-BASE-right-position:  auto;
+  --WatsonAssistantChat-BASE-top-position:    auto;
+  /* --WatsonAssistantChat-BASE-left-position:   30px; */
+  --WatsonAssistantChat-BASE-right-position:   30px;
+}
+
+#WACContainer.WACContainer table {
+  border-collapse: collapse;
+}
+#WACContainer.WACContainer th {
+  border: 1px solid #333;
+}
+#WACContainer.WACContainer td {
+  border: 1px solid #333;
+}
